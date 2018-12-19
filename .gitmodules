@@ -1,0 +1,3 @@
+[submodule "analog-expander"]
+	path = analog-expander
+	url = https://github.com/othermod/rpi-analog-expander/
