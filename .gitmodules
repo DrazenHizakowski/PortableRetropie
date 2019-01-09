@@ -1,3 +1,6 @@
 [submodule "analog-expander"]
 	path = analog-expander
 	url = https://github.com/othermod/rpi-analog-expander/
+[submodule "RetroPie-joystick-selection"]
+	path = RetroPie-joystick-selection
+	url = https://github.com/meleu/RetroPie-joystick-selection
